@@ -22,20 +22,19 @@ This project is a hypothetical **Product Sales Anayltics Dashboard** built in **
 - **Language:** DAX
 - **Data Format:** CSV → imported into PostgreSQL
 
-'''markdown
+```markdown
 ## Project Structure
 
-product-sales-dashboard/
-├── powerbi/
-│   └── product_sales_dashboard.pbix        # Main Power BI report
-├── data/
-│   └── sales_data.csv                      # Source sales dataset
-├── sql/
-│   ├── create_table.sql                    # Table definition for sales_data
-│   └── notes_and_queries.sql               # Example analysis queries
-└── screenshots/
-    └── dashboard_main.png                  # Dashboard preview image
-
+    product-sales-dashboard/
+    ├── powerbi/
+    │   └── product_sales_dashboard.pbix        # Main Power BI report
+    ├── data/
+    │   └── sales_data.csv                      # Source sales dataset
+    ├── sql/
+    │   ├── create_table.sql                    # Table definition for sales_data
+    │   └── notes_and_queries.sql               # Example analysis queries
+    └── screenshots/
+        └── dashboard_main.png                  # Dashboard preview image
 
 ## About
 
