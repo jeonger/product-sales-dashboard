@@ -22,6 +22,7 @@ This project is a hypothetical **Product Sales Anayltics Dashboard** built in **
 - **Language:** DAX
 - **Data Format:** CSV → imported into PostgreSQL
 
+'''markdown
 ## Project Structure
 
 product-sales-dashboard/
