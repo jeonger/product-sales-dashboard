@@ -22,8 +22,10 @@ This project is a hypothetical **Product Sales Anayltics Dashboard** built in **
 - **Language:** DAX
 - **Data Format:** CSV → imported into PostgreSQL
 
+
+##  Project Structure
+
 ```markdown
-## Project Structure
 
     product-sales-dashboard/
     ├── powerbi/
@@ -35,6 +37,7 @@ This project is a hypothetical **Product Sales Anayltics Dashboard** built in **
     │   └── notes_and_queries.sql               # Example analysis queries
     └── screenshots/
         └── dashboard_main.png                  # Dashboard preview image
+```
 
 ## About
 
