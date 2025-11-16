@@ -10,8 +10,11 @@ This project is a hypothetical **Product Sales Anayltics Dashboard** built in **
 
 ## Dashboard Preview
 
+ - Main Dashboard
 ![Dashboard Screenshot](screenshots/dashboard_main.png)
 
+
+ - Interactive KPIs
 ![Interactive KPIs](screenshots/dashboard_interactive_kpis.png)
 
 ## Tech Stack
