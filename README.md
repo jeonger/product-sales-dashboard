@@ -8,6 +8,12 @@ This project is a hypothetical **Product Sales Anayltics Dashboard** built in **
   - Interactive dashboard design
   - Business-focused analysis
 
+## Dashboard Preview
+
+![Dashboard Screenshot](screenshots/dashboard_main.png)
+
+![Interactive KPIs](screenshots/dashboard_interactive_kpis.png)
+
 ## Tech Stack
 
 - **Database:** PostgreSQL
@@ -20,12 +26,14 @@ This project is a hypothetical **Product Sales Anayltics Dashboard** built in **
 
 product-sales-dashboard/
 ├── powerbi/
-│   └── product_sales_dashboard.pbix     # Main Power BI report
+│   └── product_sales_dashboard.pbix        # Main Power BI report
 ├── data/
-│   └── sales_data.csv                   # Source sales dataset
+│   └── sales_data.csv                      # Source sales dataset
 ├── sql/
-│   ├── create_table.sql                 # Table definition for sales_data
-│   └── notes_and_queries.sql            # Example analysis queries
+│   ├── create_table.sql                    # Table definition for sales_data
+│   └── notes_and_queries.sql               # Example analysis queries
+└── screenshots/
+    └── dashboard_main.png                  # Dashboard preview image
 
 
 ## About
